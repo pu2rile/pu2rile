@@ -24,11 +24,7 @@
 
 ### Projects
 
-### ✉️ Contact
-<a href="mailto:3o920@naver.com"><img src="https://img.shields.io/badge/Mail-03C75A?style=flat&logo=Naver&logoColor=white&link=3o920@naver.com"/></a> <a href="https://velog.io/@pu2rile"><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@pu2rile"/></a> <a href="https://www.instagram.com/pa1pitate_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/pa1pitate_"/></a>
-
-### Update
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=pu2rile&color=dark)](https://velog.io/@pu2rile)
+### Experience
 
 </div>
 </details>
