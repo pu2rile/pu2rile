@@ -10,6 +10,7 @@
 
 ### 🧩 Experience
 - 교내 프로그래밍 동아리 WAP (2024.03 ~ ing)
+- 알고리즘 스터디 [알고리드미](https://github.com/AlgoLeadMe/AlgoLeadMe-10) (2024.03 ~ 2024.09)
 - GDG on Campus in PKNU (2024.09 ~ ing)
 - 지역현안 캡스톤 디자인 경진대회 [팀워크상](https://drive.google.com/file/d/1kC4D-QzC-A_uv0Ji9QfFds2cS--iK-Nh/view?usp=drive_link) (2025. 02.13)
 - 지역문제 해결 연합 해커톤 경진대회 [은상](https://drive.google.com/file/d/1RNGcEmPQJo2S7xoE2VSb9wKJcsV4bY2D/view?usp=drive_link) (2025. 02.18)
